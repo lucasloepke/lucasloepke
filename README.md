@@ -9,6 +9,6 @@
   <!-- <a href=""><img src="https://img.shields.io/badge/Python-darkgreen?logo=python&logoColor=white"></a> -->
   <a href=""><img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/CSS-lightblue?logo=css3&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=lucasloepke&style=flat-square&color=yellow" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lucasloepke&style=flat-square&color=yellow" alt="Vists"/>
 
 </div>
