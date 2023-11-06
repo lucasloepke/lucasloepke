@@ -4,5 +4,7 @@
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/lucasloepke-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasloepke%2F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
+
   
 </div>
