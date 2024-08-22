@@ -1,5 +1,5 @@
 <div align="center">
-  <img max-width="800" src="banner1.png"/>
+  <a href="https://lucasloepke.github.io/"><img max-width="800" src="banner1.png"/></a>
 </div>
 
 <div align="center">
